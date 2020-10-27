@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/22 16:10:24.000.882,=C:\Users\SpamDzn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/22 16:13:25.000.690,C:\Users\SpamDzn\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\SpamDzn\Documents\DANIEL\Projeto\UInicio.dfm</Transaction>
+    <Transaction>2020/10/22 16:13:25.000.690,C:\Users\SpamDzn\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\SpamDzn\Documents\DANIEL\Projeto\UInicio.pas</Transaction>
+    <Transaction>2020/10/22 16:13:29.000.894,C:\Users\SpamDzn\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\SpamDzn\Documents\DANIEL\Projeto\PROJETO.dproj</Transaction>
+    <Transaction>2020/10/22 16:13:42.000.207,=C:\Users\SpamDzn\Documents\DANIEL\Projeto\Unit1.pas</Transaction>
+    <Transaction>2020/10/22 16:18:10.000.767,C:\Users\SpamDzn\Documents\DANIEL\Projeto\Unit1.dfm=C:\Users\SpamDzn\Documents\DANIEL\Projeto\UDM.dfm</Transaction>
+    <Transaction>2020/10/22 16:18:10.000.767,C:\Users\SpamDzn\Documents\DANIEL\Projeto\Unit1.pas=C:\Users\SpamDzn\Documents\DANIEL\Projeto\UDM.pas</Transaction>
+    <Transaction>2020/10/22 16:35:59.000.696,=C:\Users\SpamDzn\Documents\DANIEL\Projeto\Unit1.pas</Transaction>
+    <Transaction>2020/10/22 16:36:12.000.697,C:\Users\SpamDzn\Documents\DANIEL\Projeto\Unit1.dfm=C:\Users\SpamDzn\Documents\DANIEL\Projeto\UCadastro.dfm</Transaction>
+    <Transaction>2020/10/22 16:36:12.000.697,C:\Users\SpamDzn\Documents\DANIEL\Projeto\Unit1.pas=C:\Users\SpamDzn\Documents\DANIEL\Projeto\UCadastro.pas</Transaction>
+    <Transaction>2020/10/23 00:41:10.000.451,=C:\Users\SpamDzn\Documents\DANIEL\Projeto\Unit1.pas</Transaction>
+    <Transaction>2020/10/23 00:49:38.000.415,C:\Users\SpamDzn\Documents\DANIEL\Projeto\UEditar.dfm=C:\Users\SpamDzn\Documents\DANIEL\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2020/10/23 00:49:38.000.415,C:\Users\SpamDzn\Documents\DANIEL\Projeto\UEditar.pas=C:\Users\SpamDzn\Documents\DANIEL\Projeto\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
