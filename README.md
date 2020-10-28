@@ -7,7 +7,7 @@ selecionado nos campos de texto e o outro deleta o registro escolhido.
 
 <h3>Como usar</h3>
 
-1º - Para usá-lo, você terá de executar o código SQL de nome "crud.sql" em seu Servidor SQL
+1º - Para usá-lo, você terá de executar o código SQL de nome "crud.sql" em seu SQL Server
 
 2º - Logo após, você abrirá o projeto no Delphi e entrará no arquivo de nome UDM.pas, onde está presente
 o componente de conexão, o TADOConnection.
